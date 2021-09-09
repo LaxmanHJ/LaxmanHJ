@@ -9,8 +9,10 @@
 
 Hey there 👋,
 <p>
-I am Software Developer at PricewaterhouseCoopers(PwC).I have 1+ year of experience in Salesforce Development, Design and proficiency in Aura Development, Apex Classes, Apex Triggers,Lightning Web Components, Javascript and other programs in Salesforce developer toolkit.Experienced in Migration Tool and Configuring salesforce system and involved in software development life cycle from requirement analysis, effort estimation, coding, and deployment activities.
-I am also working with Web Development with Javascript, HTML(I primarily use it to hack SpaceX), CSS.</p>
+<p>I am Software Developer at PricewaterhouseCoopers(PwC).I have 1+ year of experience in Salesforce Development, Design and proficiency in Aura Development, Apex Classes, Apex Triggers,Lightning Web Components, Javascript and other programs in Salesforce developer toolkit.</p>
+<p>Experienced in Migration Tool and Configuring salesforce system and involved in software development life cycle from requirement analysis, effort estimation, coding, and deployment activities.</p>
+<p>I am also working with Web Development with Javascript, HTML(I primarily use it to hack SpaceX), CSS.</p>
+</p>
   ---
  
  <p>
@@ -18,12 +20,12 @@ I am also working with Web Development with Javascript, HTML(I primarily use it 
 </p>
  
 ### ICYMI
-
+<p>
 I love Playing and Watching Cricket.
 I lack social Skills and Boring. "N.E.R.D".
 I am obsessed with Tech, Space and Humour.
  ---
-
+</p>
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
