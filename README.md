@@ -13,19 +13,22 @@ Hey there 👋,
 <p>Experienced in Migration Tool and Configuring salesforce system and involved in software development life cycle from requirement analysis, effort estimation, coding, and deployment activities.</p>
 <p>I am also working with Web Development with Javascript, HTML(I primarily use it to hack SpaceX), CSS.</p>
 </p>
-  ---
+ 
+   ---
  
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
+ </p>
  
 ### ICYMI
 <p>
 I love Playing and Watching Cricket.
 I lack social Skills and Boring. "N.E.R.D".
 I am obsessed with Tech, Space and Humour.
- ---
 </p>
+ 
+ ---
+
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
