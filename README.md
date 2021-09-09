@@ -18,6 +18,7 @@ Hey there 👋,
 
  ### Skills
 ![](https://img.shields.io/badge/Salesforce-Apex-blue)
+![](https://img.shields.io/badge/Salesforce-LWC-orange)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Java-Java-yellow)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -44,5 +45,5 @@ I am obsessed with Tech, Space and Humour.
  ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://salesforce.com"><img width="300" align='right' src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/SDE.jpeg?raw=true"></a>
 </p>
