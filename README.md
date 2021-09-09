@@ -3,8 +3,8 @@
 
 <p align='center'>
 <a href="https://twitter.com/Shubnam14"><img height="30" src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/laxmanjeergal> <img height="30" src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/laxman-jeergal-8a9373187> <img height="30" src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/linkedin.png?raw=true"></a>
+<a href="https://www.instagram.com/laxmanjeergal"> <img height="30" src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/laxman-jeergal-8a9373187"> <img height="30" src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/linkedin.png?raw=true"></a>
 </p>
 
 Hey there 👋,
