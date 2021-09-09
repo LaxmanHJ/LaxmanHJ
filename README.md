@@ -44,5 +44,8 @@ I am obsessed with Tech, Space and Humour.
  ---
 
 <p align='center'>
-  <a href="https://salesforce.com"><img width="500" align='right' src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/SDE.jpeg?raw=true"></a>
+  <a href="https://salesforce.com"><img width="400" align='right' src="https://raw.githubusercontent.com/LaxmanHJ/LaxmanHJ/master/icon/SDE.jpeg?raw=true"></a>
 </p>
+
+
+To Be Continued..........
