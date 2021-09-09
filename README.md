@@ -18,7 +18,6 @@ Hey there 👋,
  
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
- </p>
  
 ### ICYMI
 <p>
@@ -26,6 +25,8 @@ I love Playing and Watching Cricket.
 I lack social Skills and Boring. "N.E.R.D".
 I am obsessed with Tech, Space and Humour.
 </p>
+ </p>
+
  
  ---
 
